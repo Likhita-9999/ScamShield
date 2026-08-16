@@ -1,0 +1,1 @@
+ScamShield is a lightweight, explainable AI tool that detects phishing URLs and scam messages. Rather than returning a bare "safe/unsafe" label, every verdict comes with a plain-language explanation of the specific signals that drove the decision — so users understand why something was flagged, not just that it was.
